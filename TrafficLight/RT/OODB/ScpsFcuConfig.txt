@@ -1,0 +1,3 @@
+# ID,Fcu Name,Protocol,Max Device ID,IP1A,IP1B,IP2A,IP2B,IP3A,IP3B
+0,FCU1,RTC,2,127.0.0.1,,,,,
+
